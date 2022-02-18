@@ -1,4 +1,7 @@
 # Unity: NumberWizard (UI)
+<p align="center">
+  <a href="https://simmer.io/@bhavyajustchill/number-wizard-ui"><img height=85px src="screenshots/final_playDemoBtn.png" /></a></p>
+
 So, as I mentioned in my NumberWizard (Console) Repository, I made the NumberWizard UI.
 <ul>
 <li>This time it opens up in a UI</li>
